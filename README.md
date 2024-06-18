@@ -20,6 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto de Landing Page com o intuito de exercitar grid e responsividade.
+O projeto Landing Page tem o intuito de exercitar grid e responsividade.
 
 - [Acesse o projeto finalizado, online](https://vivianearj.github.io/AluraFlix/)
